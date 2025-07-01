@@ -35,3 +35,13 @@ X-rAI has the potential to **bridge gaps in healthcare accessibility**, particul
 - Integration into clinical workflows
 
 By integrating AI into medical diagnostics, **X-rAI** demonstrates how technology can transform healthcare delivery through scalable, reliable, and timely solutions for thoracic disease detection.
+
+---
+
+## 📬 Contact
+
+Whether you have questions about our AI-powered X-ray analysis system, need technical support, or want to explore collaboration opportunities, please don't hesitate to reach out through any of the following channels:
+
+- 📧 **Email:** [alhindibelal2003@gmail.com](mailto:alhindibelal2003@gmail.com)  
+- 📱 **Phone:** +962 77 556 3677  
+- 📷 **Instagram:** [@bksh_03](https://instagram.com/bksh_03)
