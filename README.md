@@ -1,4 +1,4 @@
-# X-rAI: Classification of Thorax Diseases 
+# X-rAI: Classification of Thorax Diseases
 
 ## 🧠 Project Overview
 
